@@ -1,0 +1,2 @@
+APP que nos permite crear tarjetas en donde por la cara frontal podamos definir algun contenido x y en la otra cara la definicion. La real funcionalidad seria ayudarnos a estudiar como lo hariamos con tarjetas fisicas. 
+Pero sin la necesidad de utilizar papel. Ademas a modo de practicar con mis conocimientos agregue autorizacion y autenticacion. Todo el mundo esta Bienvenido a colaborar, todavia hay mucho por desarrollar!
